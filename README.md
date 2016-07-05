@@ -1,3 +1,5 @@
+![](http://www.kennstewayne.de/content/images/2016/07/presskit.png)
+
 # PICO-8 Spritesheet Exporter
 
 Extract PICO-8’s project graphics to a separate **\*.png** file. The result is a (transparent) PNG file with size dimensions of 128x128 pixel.
